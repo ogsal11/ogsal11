@@ -7,5 +7,5 @@ Tech Blog: https://ogsal5765.tistory.com/
 Email: ogsal5765@naver.com
 
 ## 보유기술
-Java, JS, Ajax, MySQL, Android Studio, LINUX, Apache, JQUERY, Spring, Python, Firebase
+Java, JS, Ajax, MySQL, LINUX, Apache, JQUERY, Spring, Python, rest api
 
